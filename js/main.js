@@ -4,6 +4,7 @@ onload = () => {
     document.body.classList.remove("not-loaded");
 
     const titles = ('I LOVE U').split('')
+     const titles = ('xixixixi ><').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
